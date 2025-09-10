@@ -1,3 +1,4 @@
 # resumo-do-lab
 Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO.
-Ate o momento aprendi as diferencas entre tipos de cloud como o modelo privado, publico e hibrido, e no ultimo video  foi ensinado formas de alterar o idioma e tema no ambiente azure, bastions e sua funcao como jumpserver. 
+Até o presente momento, foram assimiladas as diferenças fundamentais entre os principais modelos de computação em nuvem: privado, público e híbrido. Na etapa mais recente do curso, foram abordados procedimentos para alteração de idioma e configuração de tema no ambiente Azure, além da apresentação do recurso Azure Bastion, detalhando sua função como jump server para acesso seguro a recursos internos.
+Adicionalmente, o curso introduziu práticas relacionadas à criação e configuração de máquinas virtuais (VMs), detalhando os aspectos técnicos necessários para sua implementação. Foram ainda discutidos os conceitos estratégicos de escalabilidade, elasticidade, gerenciabilidade, segurança e governança em ambientes de nuvem, com ênfase nas melhores práticas para administração desses recursos segundo padrões de mercado
